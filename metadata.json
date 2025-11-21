@@ -1,0 +1,5 @@
+{
+  "name": "AgriScan 3D Twin",
+  "description": "A digital twin demonstration of a strawberry plant phenotype data collection device with blue light stimulation and point cloud generation.",
+  "requestFramePermissions": []
+}
